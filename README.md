@@ -13,7 +13,7 @@
 - Automation
 - Control System
 - Robotics
-
+- 
 ### Innovations
 - Noise reduction filter algorithm
 - Sensor fusion algorithm
@@ -21,6 +21,7 @@
 
 ### Projects 
 - Self Balancing Car Using my algorithms
+- CaveEye – A Wireless Surveillance Robot with Real-Time Imaging and PID-Based Navigation
 - Swarm Robot and Fire Fighting with AI fire ditection
 - Design a Solar Power Bank
 - Smart Class Attendance System using Fingerprint and NodeJS
