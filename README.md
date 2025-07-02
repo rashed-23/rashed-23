@@ -1,3 +1,4 @@
+بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ###
 ### Bio:
 - I'm currently a Final Year Student studying Electrical and Electronics Engineering at Shahjalal University of Science & Technology, Sylhet<br>
 - I research on Control System, Solar Energy, Autonomous Vehicle<br>
