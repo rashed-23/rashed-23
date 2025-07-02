@@ -8,6 +8,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abdullah.rashed4444)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abdullah-rashed4444)
 
+### Available for Collaboration
+
+**Email:** [abdullah.rashed4444@gmail.com](mailto:abdullah.rashed4444@gmail.com)   
+**Mobile:** [+8801644443828](tel:+8801644443828)  
+**WhatsApp:** [Message me on WhatsApp](https://wa.me/8801644443828)
+
 ### Interests:
 - Research
 - Automation
