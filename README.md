@@ -8,5 +8,25 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abdullah.rashed4444)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abdullah-rashed4444)
 
+### Interests:
+- Research
+- Automation
+- Control System
+- Robotics
+
+### Innovations
+- Noise reduction filter algorithm
+- Sensor fusion algorithm
+- PID tuning method
+
+### Projects 
+- Self Balancing Car Using my algorithms
+- Swarm Robot and Fire Fighting with AI fire ditection
+- Design a Solar Power Bank
+- Smart Class Attendance System using Fingerprint and NodeJS
+- Finding Pitch and Harmonics of a Sound using FFT
+
+### Working on...
+- Autonomous Vehicle Control System
 
 
