@@ -1,6 +1,7 @@
 <h1 align="center"> بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ </h1>
 
 ### Bio:
+<hr style="border: none; border-left: 12px solid black; height: 20px; width: 0;"/>
 - I'm currently a Final Year Student studying Electrical and Electronics Engineering at Shahjalal University of Science & Technology, Sylhet.<br>
 - I research on Control System, Solar Energy, Autonomous Vehicle.<br>
 
