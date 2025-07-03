@@ -10,16 +10,16 @@
 
 ### Available for Collaboration:
 
-**Email:** [abdullah.rashed4444@gmail.com](mailto:abdullah.rashed4444@gmail.com)   
-**WhatsApp:** [Message me on WhatsApp](https://wa.me/8801644443828)  
-**Mobile:** [+8801644443828](tel:+8801644443828) 
+- **Email:** [abdullah.rashed4444@gmail.com](mailto:abdullah.rashed4444@gmail.com)   
+- **WhatsApp:** [Message me on WhatsApp](https://wa.me/8801644443828)  
+- **Mobile:** [+8801644443828](tel:+8801644443828) 
 
 ### Interests:
 - Research
 - Automation
 - Control System
 - Robotics
-- 
+
 ### Innovations:
 - Noise reduction filter algorithm
 - Sensor fusion algorithm
