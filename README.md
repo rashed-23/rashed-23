@@ -1,32 +1,36 @@
-<h1 align="center"> بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ </h1>
+<h1 align="center"> بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ </h1>  
 
-### Bio:
-<hr style="border: none; border-left: 12px solid black; height: 20px; width: 0;"/>
+ ---
+
+<br>
+
+# Bio:
+
 - I'm currently a Final Year Student studying Electrical and Electronics Engineering at Shahjalal University of Science & Technology, Sylhet.<br>
 - I research on Control System, Solar Energy, Autonomous Vehicle.<br>
 
-### Socials:
+# Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abdullah.rashed4444)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abdullah-rashed4444)
 
-### Available for Collaboration:
+# Available for Collaboration:
 
 - **Email:** [abdullah.rashed4444@gmail.com](mailto:abdullah.rashed4444@gmail.com)   
 - **WhatsApp:** [Message me on WhatsApp](https://wa.me/8801644443828)  
 - **Mobile:** [+8801644443828](tel:+8801644443828) 
 
-### Interests:
+# Interests:
 - Research
 - Automation
 - Control System
 - Robotics
 
-### Innovations:
+# Innovations:
 - Noise reduction filter algorithm
 - Sensor fusion algorithm
 - PID tuning method
 
-### Projects:
+# Projects:
 - Self Balancing Car Using my algorithms
 - CaveEye – A Wireless Surveillance Robot with Real-Time Imaging and PID-Based Navigation
 - Swarm Robot and Fire Fighting with AI fire ditection
@@ -34,7 +38,7 @@
 - Smart Class Attendance System using Fingerprint and NodeJS
 - Finding Pitch and Harmonics of a Sound using FFT
 
-### Working on...:
+# Working on...:
 - Autonomous Vehicle Control System
 
 
