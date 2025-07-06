@@ -24,6 +24,7 @@
 - Automation
 - Control System
 - Robotics
+- Artificial Intelligence
 
 # Innovations:
 - Noise reduction filter algorithm
