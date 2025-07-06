@@ -30,6 +30,8 @@
 - Noise reduction filter algorithm
 - Sensor fusion algorithm
 - PID tuning method
+- Multi layer data filter for privacy preserving
+- Community based learning and assistance AI model
 
 # Projects:
 - Self Balancing Car Using my algorithms
