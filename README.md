@@ -13,6 +13,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abdullah.rashed4444)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abdullah-rashed4444)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abdullah.rashed4444)
+[![Threads](https://img.shields.io/badge/Threads-112222.svg?logo=Threads&logoColor=white)](https://www.threads.net/abdullah.rashed4444)
+
 
 
 # Available for Collaboration:
