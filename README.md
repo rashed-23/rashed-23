@@ -15,8 +15,18 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abdullah.rashed4444)
 [![Threads](https://img.shields.io/badge/Threads-112222.svg?logo=Threads&logoColor=white)](https://www.threads.net/abdullah.rashed4444)
 
-# See me in
+# Find me in
 
+<p align="left">
+<a href="https://codeforces.com/profile/Rashed.23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Rashed.23" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/Rashed_23" target="blank">
+  <img align="center" 
+       src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" 
+       alt="Rashed23" 
+       height="30" 
+       width="40"/></a>
+<a href="https://www.leetcode.com/rashed_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Rashed_23" height="30" width="40" /></a>
+</p>
 
 # Available for Collaboration:
 
