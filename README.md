@@ -60,3 +60,7 @@
 - Autonomous Vehicle Control System
 
 
+# Profile info:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashed-23&show_icons=true&locale=en" alt="rashed-23" /></p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rashed-23&label=Profile%20views&color=0e75b6&style=flat" alt="rashed-23" /></p>
