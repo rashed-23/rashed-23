@@ -9,11 +9,13 @@
 - I'm currently a Final Year Student studying Electrical and Electronics Engineering at Shahjalal University of Science & Technology, Sylhet.<br>
 - I research on Control System, Solar Energy, Autonomous Vehicle.<br>
 
+
 # Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abdullah.rashed4444)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abdullah-rashed4444)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abdullah.rashed4444)
 [![Threads](https://img.shields.io/badge/Threads-112222.svg?logo=Threads&logoColor=white)](https://www.threads.net/abdullah.rashed4444)
+
 
 # Find me in
 
@@ -27,6 +29,7 @@
        width="40"/></a>
 <a href="https://www.leetcode.com/rashed_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Rashed_23" height="30" width="40" /></a>
 </p>
+
 
 # Languages and Tools I Use
 
