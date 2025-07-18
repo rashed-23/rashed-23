@@ -93,6 +93,6 @@
 
 
 # Profile info:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashed-23&show_icons=true&theme=transparent&title_color=02fd4a&text_color=01dcff&icon_color=9f05fc&locale=en&cache_seconds=0" alt="rashed-23"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashed-23&show_icons=true&theme=transparent&title_color=02fd4a&text_color=01dcff&icon_color=9f05fc&locale=en&cache_seconds=180" alt="rashed-23"/></p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rashed-23&label=Profile%20views&color=0e75b6&style=flat" alt="rashed-23" /></p>
