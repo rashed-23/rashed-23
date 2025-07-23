@@ -23,11 +23,13 @@
 <a href="https://codeforces.com/profile/Rashed.23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Rashed.23" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/Rashed23" target="blank">
   <img align="center" 
-       src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" 
+       src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" 
        alt="Rashed23" 
-       height="30" 
-       width="40"/></a>
+       height="40" 
+       width="80"/></a>
 <a href="https://www.leetcode.com/rashed_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Rashed_23" height="30" width="40" /></a>
+ <a href="https://www.researchgate.net/profile/Md-Rashedul-Islam-30" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" height="30" width="40" /></a>
 </p>
 
 
