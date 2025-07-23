@@ -30,6 +30,8 @@
 <a href="https://www.leetcode.com/rashed_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Rashed_23" height="30" width="40" /></a>
  <a href="https://www.researchgate.net/profile/Md-Rashedul-Islam-30" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" height="30" width="40" /></a>
+ <a href="https://orcid.org/0009-0009-8261-4535" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" height="30" width="40" /></a>
 </p>
 
 
